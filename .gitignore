@@ -87,6 +87,6 @@ fabric.properties
 Upload/**
 
 *.docx
-idea/**
+.idea/**
 
 # End of https://www.gitignore.io/api/pycharm
